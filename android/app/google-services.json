@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "868126607741",
+    "project_id": "frogout-a12bb",
+    "storage_bucket": "frogout-a12bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868126607741:android:6f2c14e15e15df44352414",
+        "android_client_info": {
+          "package_name": "com.example.frogout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868126607741-qu0nb4has723fcogm7ip85fajag68drl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWlfaXi9zC4iGDlWdBevwSWZ-nzd4OVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868126607741-qu0nb4has723fcogm7ip85fajag68drl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868126607741-js1aecjpb80i3m3ospphbukng35f6m9j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frogout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
