@@ -20,7 +20,7 @@ class SplashInfectedState extends SplashState {}
 class SplashErrorState extends SplashState {
   final String message;
 
-  SplashErrorState({required this.message});
+  const SplashErrorState({required this.message});
 
   @override
   List<Object> get props => [message];
