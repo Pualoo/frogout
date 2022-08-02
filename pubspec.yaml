@@ -12,19 +12,30 @@ dependencies:
   flutter:
     sdk: flutter
   
-  cupertino_icons: ^1.0.2
+  # Firebase Core API
   firebase_core: ^1.19.2
+  # Firebase Authentication API
   firebase_auth: ^3.4.2
+  # Google Sign In Service
+  google_sign_in: ^5.4.0
+  # Bloc for state management
   flutter_bloc: ^8.0.1
-  bloc_test: ^9.0.3
+  # Value equality
   equatable: ^2.0.3
+  # Service locator
   get_it: ^7.2.0
+  # Functional programming in Dart
+  dartz: ^0.10.1
+  # Pre-built animations
+  animations: ^2.0.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  mockito: ^5.3.0
+  bloc_test: ^9.0.3
 
 flutter:
   uses-material-design: true
